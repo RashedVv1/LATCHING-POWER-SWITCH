@@ -1,4 +1,4 @@
-#PROJECT NAME Auto-Latching Power Switch Using Arduino
+#PROJECT NAME: Auto-Latching Power Switch Using Arduino
 
 📋 Description
 This project demonstrates how to build a latching power switch circuit using an Arduino. The circuit allows you to toggle a power load (like an LED or relay) ON with a single button press and automatically turn it OFF after a preset time interval or condition (e.g., 10 seconds timeout).
